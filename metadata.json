@@ -1,0 +1,6 @@
+{
+  "name": "CashCount Pro",
+  "description": "Fast and professional cash denomination counter, calculator, receipt generator, reporting and history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
